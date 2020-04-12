@@ -28,4 +28,3 @@ export default Layout;
 // XX Get hosted to my GH Pages -> fix routing
 
 // XX Add README
-// XX Create login construction page -> create login page
