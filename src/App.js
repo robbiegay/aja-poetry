@@ -15,14 +15,11 @@ function App() {
         <Router> 
           {/* basename="/aja-poetry" */}
           <Switch>
-            <Route exact path={process.env.PUBLIC_URL + '/'}>
+            {/* <Route exact path={process.env.PUBLIC_URL + "/poetry"}>
               <Poetry />
-            </Route>
-            <Route exact path={process.env.PUBLIC_URL + "/poetry"}>
-              <Poetry />
-            </Route>
+            </Route> */}
             <Route path={process.env.PUBLIC_URL + "/poetry"}>
-              <Poem />
+              <Poetry />
             </Route>
             <Route path={process.env.PUBLIC_URL + "/faith"}>
               <Faith />
@@ -32,6 +29,10 @@ function App() {
             </Route>
             <Route path={process.env.PUBLIC_URL + "/login"}>
               <Login />
+            </Route>
+            <Route path={process.env.PUBLIC_URL + '/'}>
+              {/* exact */}
+              <Homepage />
             </Route>
           </Switch>
         </Router>
