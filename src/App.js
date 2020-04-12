@@ -16,7 +16,7 @@ function App() {
           {/* basename="/aja-poetry" */}
           <Switch>
             <Route exact path={process.env.PUBLIC_URL + '/'}>
-              <Homepage />
+              <Poetry />
             </Route>
             <Route exact path={process.env.PUBLIC_URL + "/poetry"}>
               <Poetry />
