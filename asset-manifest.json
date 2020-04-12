@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robbiegay/aja-poetry/static/css/main.deb1f264.chunk.css",
+    "main.js": "/robbiegay/aja-poetry/static/js/main.220f84a4.chunk.js",
+    "main.js.map": "/robbiegay/aja-poetry/static/js/main.220f84a4.chunk.js.map",
+    "runtime-main.js": "/robbiegay/aja-poetry/static/js/runtime-main.15f0bf49.js",
+    "runtime-main.js.map": "/robbiegay/aja-poetry/static/js/runtime-main.15f0bf49.js.map",
+    "static/css/2.89f067aa.chunk.css": "/robbiegay/aja-poetry/static/css/2.89f067aa.chunk.css",
+    "static/js/2.20d32ef3.chunk.js": "/robbiegay/aja-poetry/static/js/2.20d32ef3.chunk.js",
+    "static/js/2.20d32ef3.chunk.js.map": "/robbiegay/aja-poetry/static/js/2.20d32ef3.chunk.js.map",
+    "index.html": "/robbiegay/aja-poetry/index.html",
+    "precache-manifest.5e367394960273c68d9a5d738da113bc.js": "/robbiegay/aja-poetry/precache-manifest.5e367394960273c68d9a5d738da113bc.js",
+    "service-worker.js": "/robbiegay/aja-poetry/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/robbiegay/aja-poetry/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.deb1f264.chunk.css.map": "/robbiegay/aja-poetry/static/css/main.deb1f264.chunk.css.map",
+    "static/js/2.20d32ef3.chunk.js.LICENSE.txt": "/robbiegay/aja-poetry/static/js/2.20d32ef3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15f0bf49.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.20d32ef3.chunk.js",
+    "static/css/main.deb1f264.chunk.css",
+    "static/js/main.220f84a4.chunk.js"
+  ]
+}
