@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07134de735da97f31e81090b67fb8e3e",
+    "revision": "9ff759951d2152dfe9426a2d95caae27",
     "url": "/aja-poetry/index.html"
   },
   {
-    "revision": "56549d81603666433f2a",
+    "revision": "a24c5aa7b7c11c836f36",
     "url": "/aja-poetry/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "5c885c0a6fe8e7e8e283",
+    "revision": "f217ad41da6eb67f2279",
     "url": "/aja-poetry/static/css/main.9da22665.chunk.css"
   },
   {
-    "revision": "56549d81603666433f2a",
-    "url": "/aja-poetry/static/js/2.1a09670e.chunk.js"
+    "revision": "a24c5aa7b7c11c836f36",
+    "url": "/aja-poetry/static/js/2.1ffa6db4.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/aja-poetry/static/js/2.1a09670e.chunk.js.LICENSE.txt"
+    "url": "/aja-poetry/static/js/2.1ffa6db4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c885c0a6fe8e7e8e283",
-    "url": "/aja-poetry/static/js/main.f17f06dc.chunk.js"
+    "revision": "f217ad41da6eb67f2279",
+    "url": "/aja-poetry/static/js/main.8aa8b117.chunk.js"
   },
   {
     "revision": "43143c8daa7e83eaba97",
