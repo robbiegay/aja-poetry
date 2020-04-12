@@ -1,11 +1,11 @@
-import React from 'react';
-import Homepage from './Homepage';
+import React from "react";
+import Homepage from "./Homepage";
 import Poetry from "./Poetry";
 import Poem from "./Poem";
 import Faith from "./Faith";
 import About from "./About";
 import Login from "./Login";
-import './App.css';
+import "./App.css";
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <div className="App">
         <Router> 
           <Switch>
-            <Route exact path='/'>
+            <Route exact path="/">
               <Homepage />
             </Route>
             <Route exact path="/poetry">

@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 import NavBar from "./NavBar";
-import Layout from './Layout';
-import Footer from './Footer';
+import Layout from "./Layout";
+import Footer from "./Footer";
 import { Image } from "react-bootstrap";
-import Typing from 'react-typing-animation';
+import Typing from "react-typing-animation";
 
 function Homepage() {
     return (

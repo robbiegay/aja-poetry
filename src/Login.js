@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 import NavBar from "./NavBar";
-import Layout from './Layout';
-import Footer from './Footer';
+import Layout from "./Layout";
+import Footer from "./Footer";
 import { Form, Button } from "react-bootstrap";
 
 function Login() {
