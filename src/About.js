@@ -42,7 +42,7 @@ function About() {
 
                 <br /><br /><br /><br /><br /><br /><br /><br /><br />
                 <small className="text-secondary">
-                    Social media icons made by <u><a className="text-secondary" href="https://www.flaticon.com/authors/roundicons" title="Roundicons">Roundicons</a></u> from <u><a className="text-secondary" href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></u>
+                    Social media icons created by <u><a className="text-secondary" href="https://www.flaticon.com/authors/roundicons" title="Roundicons">Roundicons</a></u> from <u><a className="text-secondary" href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></u>
                 </small>
             </Layout>
             <Footer />

@@ -14,22 +14,22 @@ function App() {
       <div className="App">
         <Router>
           <Switch>
-            <Route exact path="/">
+            <Route exact path={process.env.PUBLIC_URL + "/"}>
               <Homepage />
             </Route>
-            <Route exact path="/poetry">
+            <Route exact path={process.env.PUBLIC_URL + "/poetry"}>
               <Poetry />
             </Route>
-            <Route path="/poetry">
+            <Route path={process.env.PUBLIC_URL + "/poetry"}>
               <Poem />
             </Route>
-            <Route path="/faith">
+            <Route path={process.env.PUBLIC_URL + "/faith"}>
               <Faith />
             </Route>
-            <Route path="/about">
+            <Route path={process.env.PUBLIC_URL + "/about"}>
               <About />
             </Route>
-            <Route path="/login">
+            <Route path={process.env.PUBLIC_URL + "/login"}>
               <Login />
             </Route>
           </Switch>

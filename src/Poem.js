@@ -3,9 +3,9 @@ import NavBar from "./NavBar";
 import Footer from "./Footer";
 import Layout from "./Layout";
 
-import BlackPorcelain from "./BlackPorcelain";
-import Morning from "./Morning";
-import GoodIsNotAlwaysRight from "./GoodIsNotAlwaysRight";
+import BlackPorcelain from "./poems/BlackPorcelain";
+import Morning from "./poems/Morning";
+import GoodIsNotAlwaysRight from "./poems/GoodIsNotAlwaysRight";
 
 class Poem extends React.Component {
     constructor(props) {
