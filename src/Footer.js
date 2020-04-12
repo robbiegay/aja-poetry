@@ -20,7 +20,7 @@ function Footer() {
                 </Navbar.Collapse>
                 <Navbar.Collapse className="justify-content-end no-gutters">
                     <Navbar.Text>
-                        <Nav.Link href="/aja-poetry/login" className="text-secondary">Aja Login</Nav.Link>
+                        <Nav.Link href="/login" className="text-secondary">Aja Login</Nav.Link>
                     </Navbar.Text>
                 </Navbar.Collapse>
             </Navbar>
