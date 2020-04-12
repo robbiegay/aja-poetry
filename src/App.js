@@ -23,7 +23,7 @@ function App() {
             <Route path={process.env.PUBLIC_URL + "/poetry"}>
               <Poem />
             </Route>
-            <Route path={process.env.PUBLIC_URL + "/faith"}>
+            <Route path={process.env.PUBLIC_URL + "/aja-poetry/faith"}>
               <Faith />
             </Route>
             <Route path={process.env.PUBLIC_URL + "/about"}>
