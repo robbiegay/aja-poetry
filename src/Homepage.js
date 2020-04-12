@@ -8,7 +8,7 @@ function Homepage() {
         <>
         <NavBar />
            <Layout>
-               <p>Home</p>
+               <h1>Aja Leachman</h1>
            </Layout>
         <Footer />
         </>

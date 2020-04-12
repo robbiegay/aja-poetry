@@ -24,16 +24,6 @@ function Footer() {
                     </Navbar.Text>
                 </Navbar.Collapse>
             </Navbar>
-            {/* <footer>
-                <Navbar sticky="bottom" bg="dark">
-                    <Navbar.Text>
-                        <em className="text-light justify-content-end">&copy; 2020 Aja Leachman. All rights reserved.</em>
-                    </Navbar.Text>
-                    <Navbar.Text>
-                        <em className="text-light justify-content-end">&copy; 2020 Aja Leachman. All rights reserved.</em>
-                    </Navbar.Text>
-                </Navbar>
-            </footer> */}
         </>
     );
 }
