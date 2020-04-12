@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aja Leachman Poetry Website
 
-## Available Scripts
+I made this site for my friend Aja, as a place for her to share her poetry and faith-based writings. 
+Aja is a teacher and writer from Frankfort, KY who currently lives in Louisville.
 
-In the project directory, you can run:
+## Project History
 
-### `npm start`
+I promised Aja I would build her a website months ago. Unfortunately, as I have continued my freelance work and job hunt, this has been something I have repeatedly put off. I finally created the design files (1.5 hours) a few weeks ago, but it wasn't until today — with a free Saturday evening — that I finally sat down to build her site. I spent about an hour doing some research on how to build the CRUD features for Aja to use, and have been building the basic site from 9:15 pm–1:45 am.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Design: 1.5 hours
+Basic Website: 5.5 hours
+Login and CRUD for poems: ?? -Coming Soon-
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+You can check out her site here: https://robbiegay.github.io/aja-poetry/
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
 
-### `npm run build`
+* [Bootstrap](https://getbootstrap.com) - CSS framework
+* [React](https://reactjs.org/) – Frontend JavaScript Library
+* [React Router](https://reacttraining.com/react-router/) – Used to route between various pages on the site
+* [React Typing Animation](https://www.npmjs.com/package/react-typing-animation) — Used for typing animation on Homepage
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributing
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+If you've found a bug in my code, please feel free to send me an Issue!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authors
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* **Robbie Gay** - [Robbie's Website](https://www.robbiegay.art/)
