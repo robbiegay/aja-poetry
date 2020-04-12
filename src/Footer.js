@@ -21,7 +21,6 @@ function Footer() {
                 <Navbar.Collapse className="justify-content-end no-gutters">
                     <Navbar.Text>
                         <Link to="/login" className="text-secondary">Aja Login</Link>
-                        {/* <Nav.Link href={process.env.PUBLIC_URL + "/login"} className="text-secondary">Aja Login</Nav.Link> */}
                     </Navbar.Text>
                 </Navbar.Collapse>
             </Navbar>

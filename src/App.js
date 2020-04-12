@@ -14,11 +14,14 @@ function App() {
       <div className="App">
         <Router basename={process.env.PUBLIC_URL} forceRefresh={true}> 
           <Switch>
-            {/* <Route exact path={process.env.PUBLIC_URL + "/poetry"}>
+            <Route exact path='/'>
+              <Homepage />
+            </Route>
+            <Route exact path="/poetry">
               <Poetry />
-            </Route> */}
+            </Route>
             <Route path="/poetry">
-              <Poetry />
+              <Poem />
             </Route>
             <Route path="/faith">
               <Faith />
@@ -28,10 +31,6 @@ function App() {
             </Route>
             <Route path="/login">
               <Login />
-            </Route>
-            <Route path='/'>
-              {/* exact */}
-              <Homepage />
             </Route>
           </Switch>
         </Router>
