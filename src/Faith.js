@@ -3,16 +3,16 @@ import NavBar from "./NavBar";
 import Layout from './Layout';
 import Footer from './Footer';
 
-function Homepage() {
+function Faith() {
     return (
         <>
         <NavBar />
            <Layout>
-               <p>Home</p>
+               <p>Faith</p>
            </Layout>
         <Footer />
         </>
     );
 }
 
-export default Homepage;
+export default Faith;

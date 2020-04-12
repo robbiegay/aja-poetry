@@ -3,16 +3,16 @@ import NavBar from "./NavBar";
 import Layout from './Layout';
 import Footer from './Footer';
 
-function Homepage() {
+function Login() {
     return (
         <>
         <NavBar />
            <Layout>
-               <p>Home</p>
+               <p>Login</p>
            </Layout>
         <Footer />
         </>
     );
 }
 
-export default Homepage;
+export default Login;
