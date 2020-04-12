@@ -20,7 +20,12 @@ function About() {
                         <Col xs={8}>
                             <h1>Aja Leachman</h1>
                             <p className="text-justify">
-                                Aenean in purus volutpat, pharetra sapien sit amet, tristique nibh. Vivamus at sem neque. Donec lectus urna, vehicula sed pellentesque eu, facilisis in dui. Nulla tristique ut tellus at egestas. Integer id tincidunt tortor. Sed ac hendrerit nisl. Nam aliquam aliquet imperdiet. Sed mollis turpis nec sem fringilla, non malesuada lectus dignissim. In vitae malesuada nisi.
+                                Aenean in purus volutpat, pharetra sapien sit amet, tristique nibh. 
+                                Vivamus at sem neque. Donec lectus urna, vehicula sed pellentesque eu, 
+                                facilisis in dui. Nulla tristique ut tellus at egestas. Integer id 
+                                tincidunt tortor. Sed ac hendrerit nisl. Nam aliquam aliquet imperdiet. 
+                                Sed mollis turpis nec sem fringilla, non malesuada lectus dignissim. 
+                                In vitae malesuada nisi.
                             </p>
                         </Col>
                     </Row>
