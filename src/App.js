@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <Router basename={process.env.PUBLIC_URL} forceRefresh={true}> 
+        <Router> 
           <Switch>
             <Route exact path='/'>
               <Homepage />
