@@ -12,25 +12,24 @@ function App() {
   return (
     <>
       <div className="App">
-        <Router> 
-          {/* basename="/aja-poetry" */}
+        <Router basename={process.env.PUBLIC_URL} forceRefresh={true}> 
           <Switch>
             {/* <Route exact path={process.env.PUBLIC_URL + "/poetry"}>
               <Poetry />
             </Route> */}
-            <Route path={process.env.PUBLIC_URL + "/poetry"}>
+            <Route path="/poetry">
               <Poetry />
             </Route>
-            <Route path={process.env.PUBLIC_URL + "/faith"}>
+            <Route path="/faith">
               <Faith />
             </Route>
-            <Route path={process.env.PUBLIC_URL + "/about"}>
+            <Route path="/about">
               <About />
             </Route>
-            <Route path={process.env.PUBLIC_URL + "/login"}>
+            <Route path="/login">
               <Login />
             </Route>
-            <Route path={process.env.PUBLIC_URL + '/'}>
+            <Route path='/'>
               {/* exact */}
               <Homepage />
             </Route>
