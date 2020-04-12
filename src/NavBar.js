@@ -7,7 +7,7 @@ function NavBar() {
     return (
         <>
             <Navbar expand="md" sticky="top" bg="dark">
-                <Navbar.Brand className="text-light" href="/">Aja Leachman</Navbar.Brand>
+                <Navbar.Brand className="text-light" href={process.env.PUBLIC_URL + "/"}>Aja Leachman</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
