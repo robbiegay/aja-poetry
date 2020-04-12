@@ -6,7 +6,7 @@ import Faith from "./Faith";
 import About from "./About";
 import Login from "./Login";
 import './App.css';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
