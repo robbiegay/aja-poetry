@@ -20,13 +20,12 @@ function Layout(props) {
 export default Layout;
 
 // TODO
-// Footer: link to bottom always, align center my name
-// XX Create login construction page -> create login page
+// X Footer: link to bottom always, align center my name
 // Don't use <br /> as a fix
 // AJA -> Replace Lorum Ipsum, have any faith writings?
-// Create landing page/splash page
 // Get pages to fill height 100%
 // Check view on mobile
-// XX Get hosted to my GH Pages
+// XX Get hosted to my GH Pages -> fix routing
+
 // XX Add README
-// XX Footer text color -> gray, small
+// XX Create login construction page -> create login page
