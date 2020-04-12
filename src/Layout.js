@@ -26,5 +26,4 @@ export default Layout;
 // Get pages to fill height 100%
 // Check view on mobile
 // XX Get hosted to my GH Pages -> fix routing
-
-// XX Add README
+// Style check -> single vs double quotes, etc
