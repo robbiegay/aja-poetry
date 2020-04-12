@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Switch>
             <Route exact path={process.env.PUBLIC_URL + "/"}>
               <Homepage />
@@ -23,7 +23,7 @@ function App() {
             <Route path={process.env.PUBLIC_URL + "/poetry"}>
               <Poem />
             </Route>
-            <Route path={process.env.PUBLIC_URL + "/aja-poetry/faith"}>
+            <Route path={process.env.PUBLIC_URL + "/faith"}>
               <Faith />
             </Route>
             <Route path={process.env.PUBLIC_URL + "/about"}>

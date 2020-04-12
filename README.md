@@ -9,7 +9,7 @@ I promised Aja I would build her a website months ago. Unfortunately, as I have 
 
 - Design: 1.5 hours
 - Basic Website: 5.5 hours
-- Login and CRUD for poems: ?? -Coming Soon-
+- Login and CRUD for poems: -Coming Soon-
 
 ## Getting Started
 
