@@ -6,7 +6,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 function NavBar() {
     return (
         <>
-        <Router>
+        {/* <Router> */}
             <Navbar expand="md" sticky="top" bg="dark"> 
                 <Navbar.Brand className="text-light" href={process.env.PUBLIC_URL + "/"}>Aja Leachman</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -18,7 +18,7 @@ function NavBar() {
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
-            </Router>
+            {/* </Router> */}
         </>
     );
 }
