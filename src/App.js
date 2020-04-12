@@ -12,7 +12,8 @@ function App() {
   return (
     <>
       <div className="App">
-        <Router basename="/aja-poetry">
+        <Router>
+          {/* basename="/aja-poetry" */}
           <Switch>
             <Route exact path="/"g>
               <Homepage />
