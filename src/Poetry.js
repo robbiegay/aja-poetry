@@ -3,6 +3,7 @@ import NavBar from "./NavBar";
 import Layout from './Layout';
 import Footer from './Footer';
 import { Card, Accordion } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 function Poetry() {
     return (
@@ -30,9 +31,9 @@ function Poetry() {
                         </Accordion.Toggle>
                         <Accordion.Collapse eventKey="0">
                             <Card.Body>
-                                <a href="/poetry/black-porcelain">Black Porcelain</a><br />
-                                <a href="/poetry/morning">morning</a><br />
-                                <a href="/poetry/good-is-not-always-right">Good is Not Always Right</a>
+                                <Link to="/poetry/black-porcelain">Black Porcelain</Link><br />
+                                <Link to="/poetry/morning">morning</Link><br />
+                                <Link to="/poetry/good-is-not-always-right">Good is Not Always Right</Link><br />
                             </Card.Body>
                         </Accordion.Collapse>
                     </Card>
