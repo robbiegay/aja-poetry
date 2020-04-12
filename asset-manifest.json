@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aja-poetry/static/css/main.9da22665.chunk.css",
-    "main.js": "/aja-poetry/static/js/main.0066ee3b.chunk.js",
-    "main.js.map": "/aja-poetry/static/js/main.0066ee3b.chunk.js.map",
+    "main.js": "/aja-poetry/static/js/main.6263f1f5.chunk.js",
+    "main.js.map": "/aja-poetry/static/js/main.6263f1f5.chunk.js.map",
     "runtime-main.js": "/aja-poetry/static/js/runtime-main.a29eb20f.js",
     "runtime-main.js.map": "/aja-poetry/static/js/runtime-main.a29eb20f.js.map",
     "static/css/2.89f067aa.chunk.css": "/aja-poetry/static/css/2.89f067aa.chunk.css",
     "static/js/2.1ffa6db4.chunk.js": "/aja-poetry/static/js/2.1ffa6db4.chunk.js",
     "static/js/2.1ffa6db4.chunk.js.map": "/aja-poetry/static/js/2.1ffa6db4.chunk.js.map",
     "index.html": "/aja-poetry/index.html",
-    "precache-manifest.7f50284fae863107fafd7eca630918c8.js": "/aja-poetry/precache-manifest.7f50284fae863107fafd7eca630918c8.js",
+    "precache-manifest.33a3caf98106902d4518124ea9fc405d.js": "/aja-poetry/precache-manifest.33a3caf98106902d4518124ea9fc405d.js",
     "service-worker.js": "/aja-poetry/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/aja-poetry/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.9da22665.chunk.css.map": "/aja-poetry/static/css/main.9da22665.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.1ffa6db4.chunk.js",
     "static/css/main.9da22665.chunk.css",
-    "static/js/main.0066ee3b.chunk.js"
+    "static/js/main.6263f1f5.chunk.js"
   ]
 }
