@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9da22665.chunk.css",
-    "main.js": "/static/js/main.02ccaaf2.chunk.js",
-    "main.js.map": "/static/js/main.02ccaaf2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.86ab573d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.86ab573d.js.map",
-    "static/css/2.89f067aa.chunk.css": "/static/css/2.89f067aa.chunk.css",
-    "static/js/2.1ffa6db4.chunk.js": "/static/js/2.1ffa6db4.chunk.js",
-    "static/js/2.1ffa6db4.chunk.js.map": "/static/js/2.1ffa6db4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.65d0759f9ddccc5d1683663ec8b5ad43.js": "/precache-manifest.65d0759f9ddccc5d1683663ec8b5ad43.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.9da22665.chunk.css.map": "/static/css/main.9da22665.chunk.css.map",
-    "static/js/2.1ffa6db4.chunk.js.LICENSE.txt": "/static/js/2.1ffa6db4.chunk.js.LICENSE.txt"
+    "main.css": "/aja-poetry/static/css/main.9da22665.chunk.css",
+    "main.js": "/aja-poetry/static/js/main.1ffb4b27.chunk.js",
+    "main.js.map": "/aja-poetry/static/js/main.1ffb4b27.chunk.js.map",
+    "runtime-main.js": "/aja-poetry/static/js/runtime-main.a29eb20f.js",
+    "runtime-main.js.map": "/aja-poetry/static/js/runtime-main.a29eb20f.js.map",
+    "static/css/2.89f067aa.chunk.css": "/aja-poetry/static/css/2.89f067aa.chunk.css",
+    "static/js/2.1ffa6db4.chunk.js": "/aja-poetry/static/js/2.1ffa6db4.chunk.js",
+    "static/js/2.1ffa6db4.chunk.js.map": "/aja-poetry/static/js/2.1ffa6db4.chunk.js.map",
+    "index.html": "/aja-poetry/index.html",
+    "precache-manifest.0500d24dc18d23800477df17971833b0.js": "/aja-poetry/precache-manifest.0500d24dc18d23800477df17971833b0.js",
+    "service-worker.js": "/aja-poetry/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/aja-poetry/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.9da22665.chunk.css.map": "/aja-poetry/static/css/main.9da22665.chunk.css.map",
+    "static/js/2.1ffa6db4.chunk.js.LICENSE.txt": "/aja-poetry/static/js/2.1ffa6db4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86ab573d.js",
+    "static/js/runtime-main.a29eb20f.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.1ffa6db4.chunk.js",
     "static/css/main.9da22665.chunk.css",
-    "static/js/main.02ccaaf2.chunk.js"
+    "static/js/main.1ffb4b27.chunk.js"
   ]
 }
