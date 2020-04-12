@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import { Nav } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 function Footer() {
     return (
@@ -19,7 +20,8 @@ function Footer() {
                 </Navbar.Collapse>
                 <Navbar.Collapse className="justify-content-end no-gutters">
                     <Navbar.Text>
-                        <Nav.Link href={process.env.PUBLIC_URL + "/login"} className="text-secondary">Aja Login</Nav.Link>
+                        <Link to="/login" className="text-secondary">Aja Login</Link>
+                        {/* <Nav.Link href={process.env.PUBLIC_URL + "/login"} className="text-secondary">Aja Login</Nav.Link> */}
                     </Navbar.Text>
                 </Navbar.Collapse>
             </Navbar>
