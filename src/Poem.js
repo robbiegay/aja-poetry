@@ -16,8 +16,8 @@ class Poem extends React.Component {
     }
 
     getPoem() {
-        let idx = window.location.pathname.lastIndexOf("/")
-        let poemName = window.location.pathname.slice(idx + 1);
+        let idx = window.location.href.lastIndexOf("/")
+        let poemName = window.location.href.slice(idx + 1);
         switch (poemName) {
             case "black-porcelain":
                 this.setState({
