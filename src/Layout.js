@@ -23,10 +23,7 @@ export default Layout;
 // AJA -> Replace Lorum Ipsum, have any faith writings?
 
 // X Footer: link to bottom always, align center my name
-// Style check -> single vs double quotes, etc
 // Check view on mobile
 // Get pages to fill height 100%
 // Don't use <br /> as a fix
-// Update time on README
-
-// XX Get hosted to my GH Pages -> fix routing
+// Keep README time up to date

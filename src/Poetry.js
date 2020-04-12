@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 import NavBar from "./NavBar";
-import Layout from './Layout';
-import Footer from './Footer';
+import Layout from "./Layout";
+import Footer from "./Footer";
 import { Card, Accordion } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
