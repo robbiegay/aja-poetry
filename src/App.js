@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router basename="/aja-poetry">
           <Switch>
             <Route exact path="/"g>
               <Homepage />
