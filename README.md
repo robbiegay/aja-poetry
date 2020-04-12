@@ -5,10 +5,10 @@ Aja is a teacher and writer from Frankfort, KY who currently lives in Louisville
 
 ## Project History
 
-I promised Aja I would build her a website months ago. Unfortunately, as I have continued my freelance work and job hunt, this has been something I have repeatedly put off. I finally created the design files (1.5 hours) a few weeks ago, but it wasn't until today — with a free Saturday evening — that I finally sat down to build her site. I spent about an hour doing some research on how to build the CRUD features for Aja to use, and have been building the basic site from 9:15 pm–1:45 am.
+I promised Aja I would build her a website months ago. Unfortunately, as I have continued my freelance work and job hunt, this has been something I have repeatedly put off. I finally created the design files (1.5 hours) a few weeks ago, but it wasn't until today — with a free Saturday evening — that I finally sat down to build her site. I spent about an hour doing some research on how to build the CRUD features for Aja to use, and have been building the basic site from 9:15 pm–2:45 am.
 
 - Design: 1.5 hours
-- Basic Website: 5.5 hours
+- Basic Website: 6.5 hours
 - Login and CRUD for poems: -Coming Soon-
 
 ## Getting Started

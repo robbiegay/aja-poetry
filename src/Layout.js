@@ -20,10 +20,13 @@ function Layout(props) {
 export default Layout;
 
 // TODO
-// X Footer: link to bottom always, align center my name
-// Don't use <br /> as a fix
 // AJA -> Replace Lorum Ipsum, have any faith writings?
-// Get pages to fill height 100%
-// Check view on mobile
-// XX Get hosted to my GH Pages -> fix routing
+
+// X Footer: link to bottom always, align center my name
 // Style check -> single vs double quotes, etc
+// Check view on mobile
+// Get pages to fill height 100%
+// Don't use <br /> as a fix
+// Update time on README
+
+// XX Get hosted to my GH Pages -> fix routing
